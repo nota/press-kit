@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="138px" height="138px" viewBox="0 0 138 138" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 59 (101010) - https://sketch.com -->
+    <title>899AE6D5-4895-49F6-8A5D-8A266D41C80E@1.00x</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="24.5527794%" y1="50%" x2="14.9033211%" y2="52.2801371%" id="linearGradient-1">
+            <stop stop-color="#84B9FF" offset="0%"></stop>
+            <stop stop-color="#79ADFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="42.4634862%" y1="65.8960451%" x2="48.4894013%" y2="88.3135634%" id="linearGradient-2">
+            <stop stop-color="#568FFF" offset="0%"></stop>
+            <stop stop-color="#4C7FF2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="66.4917976%" y1="53.7522695%" x2="85.7533908%" y2="49.4420381%" id="linearGradient-3">
+            <stop stop-color="#1556FF" offset="0%"></stop>
+            <stop stop-color="#0C46F2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Tile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Gyazo" transform="translate(-531.000000, -211.000000)">
+            <g id="G-Icon" transform="translate(531.000000, 211.000000)">
+                <path d="M138,0 L137.367455,0 L98.5398046,0.000454342686 L22.4313346,0.000454342686 C10.042509,0.000908685373 0,9.97736539 0,22.2841457 L0,68.5430464 L104.57711,16.6012274 L138,0 Z" id="Fill-1" fill="url(#linearGradient-1)"></path>
+                <path d="M0,115.691021 C0,128.011971 9.97645671,138 22.2836914,138 L68.5430464,138 L4.24002957,9.2708577 C1.00136034,13.9351061 0,18.047222 0,23.0696646 L0,115.691021 Z" id="Fill-7" fill="url(#linearGradient-2)"></path>
+                <path d="M115.596832,138 C127.969596,138 138,127.997617 138,115.65896 C138,115.65896 120.817116,77.8493361 112.225674,82.1330265 C77.8634735,99.2660091 9.05926308,133.626717 9.05926308,133.626717 C12.8039349,136.432158 17.5378629,138 22.5820702,138 L115.596832,138 Z" id="Fill-9" fill="url(#linearGradient-3)"></path>
+                <path d="M99.1589404,59.8609272 C99.4849609,60.4921314 99.1930906,59.9099704 99.3679396,60.258722 L133.674054,128.846949 C136.908383,124.609807 138,120.056466 138,115.04089 L138,59.8609272 L99.1589404,59.8609272 Z" id="Fill-12" fill="#0222B8"></path>
+            </g>
+        </g>
+    </g>
+</svg>
